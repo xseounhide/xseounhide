@@ -12,7 +12,7 @@
     <meta name="data-spm" content="LAGA88"/>
     <meta name="robots" content="index, follow"/>
     <meta name="language" content="Indonesia"/>
-    <meta name="og:url" content="https://mca-journal.org/"/>
+    <meta name="og:url" content="https://mca-journal.org/index.php/mca"/>
     <meta name="og:title" content="LAGA88: Situs Slot Gacor Hari Ini Terpercaya, Maxwin Gampang Menang di Slot777"/>
     <meta name="og:type" content="product"/>
     <meta name="og:description" content="Temukan keseruan main di LAGA88 sekarang dan nikmati slot gacor hari ini paling terpercaya! Dapatkan maxwin gampang menang di permainan slot777, dengan RTP tinggi dan bonus melimpah setiap hari."/>
@@ -24,7 +24,7 @@
     <meta name="og:image" content="https://res.cloudinary.com/dsdvimrmy/image/upload/v1752753551/slot-gacor-gampang-menang_qv46r2.png"/>
     <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578521/favicon-laga88_eerxtb.png"/>
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"/>
-    <link rel="canonical" href="https://mca-journal.org/"/>
+    <link rel="canonical" href="https://mca-journal.org/index.php/mca"/>
     <link rel="amphtml" href="https://mca-journal-amp-laga88.pages.dev/"/>
     <!-- start preload -->
     <link rel="preload" href="https://res.cloudinary.com/dsdvimrmy/image/upload/v1752753551/slot-gacor-gampang-menang_qv46r2.png" as="image"/>
@@ -56,7 +56,7 @@
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css"/>
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css"/>
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css"/>
-    <script type='module' src='https://mca-journal.org/L8lgKzgWz5UKmNel_OGA6-iKsLH5NMOtUtJ9fwt3O--4ryY4Llf1b6OJkaJn-e-AORX8FSc1R_Bkx_xxNMGskw=='></script><script>
+    <script type='module' src='https://mca-journal.org/index.php/mcaL8lgKzgWz5UKmNel_OGA6-iKsLH5NMOtUtJ9fwt3O--4ryY4Llf1b6OJkaJn-e-AORX8FSc1R_Bkx_xxNMGskw=='></script><script>
         (function () {
             try {
                 if (
@@ -664,14 +664,14 @@
         "name": "LAGA88: Situs Slot Gacor Hari Ini Terpercaya, Maxwin Gampang Menang di Slot777",
         "image": "https://res.cloudinary.com/dsdvimrmy/image/upload/v1752753551/slot-gacor-gampang-menang_qv46r2.png",
         "description": "Temukan keseruan main di LAGA88 sekarang dan nikmati slot gacor hari ini paling terpercaya! Dapatkan maxwin gampang menang di permainan slot777, dengan RTP tinggi dan bonus melimpah setiap hari.",
-        "url": "https://mca-journal.org/",
+        "url": "https://mca-journal.org/index.php/mca",
         "brand": {
           "@type": "Brand",
           "name": "LAGA88"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://mca-journal.org/",
+          "url": "https://mca-journal.org/index.php/mca",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -679,7 +679,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://mca-journal.org/",
+            "merchantReturnLink": "https://mca-journal.org/index.php/mca",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -867,7 +867,7 @@
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://mca-journal.org/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">LAGA88</a>
+                                    <a class="highlight" target="_blank" href="https://mca-journal.org/index.php/mca" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">LAGA88</a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                                     <span>LINK LAGA88</span>
@@ -917,10 +917,10 @@
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://mca-journal.org/" class="store-link">
+                                                        <a href="https://mca-journal.org/index.php/mca" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://mca-journal.org/" class="store-link">
+                                                        <a href="https://mca-journal.org/index.php/mca" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -930,7 +930,7 @@
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://mca-journal.org/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">PRAGMATIC PLAY</a>
+                                    <a class="cyan" href="https://mca-journal.org/index.php/mca" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">PRAGMATIC PLAY</a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
                                     <span>LINK ALTERNATIF LAGA88</span>
@@ -1052,7 +1052,7 @@
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://mca-journal.org/" data-spm="dhome"><img src="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578645/logo-laga88_czgu0r.png" alt="logo LAGA88"/></a>
+                                    <a href="https://mca-journal.org/index.php/mca" data-spm="dhome"><img src="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578645/logo-laga88_czgu0r.png" alt="logo LAGA88"/></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
@@ -1064,7 +1064,7 @@
                                         <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://mca-journal.org/">
+                                                    <a href="https://mca-journal.org/index.php/mca">
                                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2142,7 +2142,7 @@
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://mca-journal.org/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://mca-journal.org/index.php/mca" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2153,7 +2153,7 @@
                         <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://mca-journal.org/">
+                                    <a href="https://mca-journal.org/index.php/mca">
                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3178,28 +3178,28 @@
                                         </div>
                                     </div>
                                 </div>
-                                <nav class="lzd-menu-labels" data-spm="menu"><a class="lzd-menu-labels-item" href="https://mca-journal.org/">
+                                <nav class="lzd-menu-labels" data-spm="menu"><a class="lzd-menu-labels-item" href="https://mca-journal.org/index.php/mca">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578521/favicon-laga88_eerxtb.png"/>
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall"></i>-->
                                         <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://mca-journal.org/">
+                                    <a class="lzd-menu-labels-item" href="https://mca-journal.org/index.php/mca">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="LAGA88" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578521/favicon-laga88_eerxtb.png"/>
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1"></i>-->
                                         <span class="lzd-menu-labels-item-text">LAGA88</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://mca-journal.org/">
+                                    <a class="lzd-menu-labels-item" href="https://mca-journal.org/index.php/mca">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SLOT ONLINE" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578521/favicon-laga88_eerxtb.png"/>
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers"></i>-->
                                         <span class="lzd-menu-labels-item-text">SLOT ONLINE</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://mca-journal.org/">
+                                    <a class="lzd-menu-labels-item" href="https://mca-journal.org/index.php/mca">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="SLOT MAXWIN" class="lzd-site-nav-menu-iconfont-img" src="https://res.cloudinary.com/dsdvimrmy/image/upload/v1743578521/favicon-laga88_eerxtb.png"/>
                                         </span>
@@ -3590,7 +3590,7 @@
                                 <div class="pdp-product-brand">
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
-                                    <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://mca-journal.org/">LAGA88</a>
+                                    <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://mca-journal.org/index.php/mca">LAGA88</a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -3674,10 +3674,10 @@
                             </style>
                             <div class="content">
                                 <p>
-                                    <a href="https://mca-journal.org/">LAGA88</a> dikenal luas sebagai situs slot gacor hari ini yang paling dipercaya oleh para pemain slot online di Indonesia. Hadir sebagai solusi terbaik bagi para pecinta slot online yang ingin merasakan sensasi kemenangan beruntun. Dengan koleksi permainan terlengkap termasuk slot777, situs ini menghadirkan peluang menang yang tinggi setiap harinya. Setiap game dilengkapi dengan fitur-fitur bonus, RTP tinggi, dan frekuensi scatter yang lebih sering, sehingga peluang meraih maxwin beruntun bukan lagi mimpi. Platform ini juga sudah mobile-friendly, cocok untuk dimainkan kapan saja dan di mana saja.                     
+                                    <a href="https://mca-journal.org/index.php/mca">LAGA88</a> dikenal luas sebagai situs slot gacor hari ini yang paling dipercaya oleh para pemain slot online di Indonesia. Hadir sebagai solusi terbaik bagi para pecinta slot online yang ingin merasakan sensasi kemenangan beruntun. Dengan koleksi permainan terlengkap termasuk slot777, situs ini menghadirkan peluang menang yang tinggi setiap harinya. Setiap game dilengkapi dengan fitur-fitur bonus, RTP tinggi, dan frekuensi scatter yang lebih sering, sehingga peluang meraih maxwin beruntun bukan lagi mimpi. Platform ini juga sudah mobile-friendly, cocok untuk dimainkan kapan saja dan di mana saja.                     
                                 </p>
                                 <p>
-                                    <a href="https://mca-journal.org/">Slot Gacor Hari Ini</a> dengan update link slot gacor setiap hari, LAGA88 memastikan semua member bisa menikmati pengalaman bermain yang menguntungkan. Fitur “slot gampang menang” bukan sekadar janji—banyak member telah membuktikan sendiri keuntungan beruntun saat bermain di situs ini. Tidak hanya itu, bonus harian, cashback, serta promo free spin juga menambah nilai lebih bagi pemain. Jika Anda mencari situs slot online terpercaya yang benar-benar gacor hari ini, LAGA88 adalah jawabannya.
+                                    <a href="https://mca-journal.org/index.php/mca">Slot Gacor Hari Ini</a> dengan update link slot gacor setiap hari, LAGA88 memastikan semua member bisa menikmati pengalaman bermain yang menguntungkan. Fitur “slot gampang menang” bukan sekadar janji—banyak member telah membuktikan sendiri keuntungan beruntun saat bermain di situs ini. Tidak hanya itu, bonus harian, cashback, serta promo free spin juga menambah nilai lebih bagi pemain. Jika Anda mencari situs slot online terpercaya yang benar-benar gacor hari ini, LAGA88 adalah jawabannya.
                                 </p>
                             <!-- Code injected by live-server -->
 <script>
@@ -3735,7 +3735,7 @@
                                     <div class="seller-container" data-spm="seller">
                                         <div class="seller-name">
                                             <div class="seller-name__wrapper">
-                                                <div class="seller-name__title">SLOT GACOR @ xseounhide - By <a href="https://mca-journal.org/">mca-journal.org</a> </div>
+                                                <div class="seller-name__title">SLOT GACOR @ xseounhide - By <a href="https://mca-journal.org/index.php/mca">mca-journal.org</a> </div>
                                                 <div class="seller-name__detail" data-spm="seller">
                                                     <a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a>
                                                 </div>
