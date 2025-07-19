@@ -1,9 +1,9 @@
 :root {
   --bg-color: #0f020f;
-  --gradient-top-menu: linear-gradient(89.87deg, #180325 35.41%, #611892 121.72%);
-  --gradient-btn-login: linear-gradient(to bottom, #922cd6, #611892);
+  --gradient-top-menu: linear-gradient(89.87deg, #03094a 35.41%, #511892 121.72%);
+  --gradient-btn-login: linear-gradient(to bottom, #922cd6, #511892);
   --gradient-btn-daftar: linear-gradient(to bottom, #ff38b6, #960962);
   --main-color: #ff38b6;
   --heading-color: #e807ff;
-  --gradient-menu-footer: linear-gradient(to bottom, #340c4e, #180325);
+  --gradient-menu-footer: linear-gradient(to bottom, #340c4e, #03094a);
 }
